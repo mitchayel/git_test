@@ -1,0 +1,4 @@
+Tips
+- Always name the HTML file that will contain the homepage of our website "index.html"
+    - This is because web servers will by default look for an index.html page when users land on our websites. Not having one will create problems!
+    
