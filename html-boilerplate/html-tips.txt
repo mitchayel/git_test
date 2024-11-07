@@ -1,4 +1,23 @@
 Tips
 - Always name the HTML file that will contain the homepage of our website "index.html"
     - This is because web servers will by default look for an index.html page when users land on our websites. Not having one will create problems!
-    
+- HTML files have to include an <html> element at the beginning of a document. Known as the root. 
+- <head> is where we put important meta-information about our webpages, and stuff required for our webpages to render correctly in the browser.
+    - Inside <head> we don't use any element that displays content on the webpage.
+    - <title> should always be included in the <head>
+        - This will be the listed title in the browser tab
+- *Last boilerplate step* is to include <body>.
+    - the <body> exists within the <html> element but comes after <head>
+
+Odin boilerplate example below:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My First Webpage</title>
+  </head>
+
+  <body>
+  </body>
+</html>
