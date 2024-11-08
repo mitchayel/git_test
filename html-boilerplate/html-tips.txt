@@ -21,3 +21,8 @@ Odin boilerplate example below:
   <body>
   </body>
 </html>
+
+Shortcuts!!!!
+- Typing ! at the beginning of an html file will automatically add all the boilerplate code
+- [Ctrl + /] automatically comments out a given line
+- Typing [lorem] will generate dummy text in vscode
